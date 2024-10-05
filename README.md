@@ -1,6 +1,4 @@
-Here’s a more effective and engaging version of the `README.md` file, with the inclusion of your Excel dashboard and explanations to make the project stand out:
 
----
 
 # 🍕 Pizza Sales Data Analysis Project
 
@@ -166,8 +164,19 @@ ORDER BY Total_Pizza_Sold ASC;
 
 ## 🛠️ Tools Used
 
-- **SQL**: For querying and analyzing pizza sales data.
-- **Excel**: For data cleaning and creating the visual dashboard.
+- **SQL**:  
+   - Used for querying the pizza sales database to extract insights such as total revenue, average order value, sales trends, and best/worst-selling pizzas.
+  
+- **Excel**:  
+   - **Data Cleaning**:  
+      - Removed duplicates and handled missing values to ensure the dataset was accurate and complete.
+   - **Data Aggregation**:  
+      - Applied **pivot tables** to summarize key metrics such as total sales by pizza category, revenue by pizza size, and monthly sales trends.
+   - **Dashboard Creation**:  
+      - Built an interactive **Excel Dashboard** using charts (bar, line, and pie charts) to visualize KPIs and sales trends.  
+      - Dynamic slicers were implemented to allow filtering of data based on pizza size, category, and time period.  
+      - The dashboard provides a visual representation of insights, making it easy to share with stakeholders.
+
 
 
 ---
@@ -184,15 +193,12 @@ The **interactive Excel dashboard** visualizes key findings, allowing stakeholde
 
 [HARSH]  
 [kittuharsh75@gmail.com]  
-[www.linkedin.com/in/harsh-kit2]  
+[www.linkedin.com/in/harsh-kit2]
 
 ---
 
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
-
----
-
 
 
