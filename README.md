@@ -195,10 +195,6 @@ The **interactive Excel dashboard** visualizes key findings, allowing stakeholde
 [kittuharsh75@gmail.com]  
 [www.linkedin.com/in/harsh-kit2]
 
----
 
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
 
 
